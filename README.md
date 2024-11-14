@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=nilson-krull)
 
-<!--
-**nilson-krull/nilson-krull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Nilson Luiz Krull! 👋
 
-Here are some ideas to get you started:
+🚀 **Senior .NET Developer**   
+💻 Apaixonado por arquitetura e desenvolvimento de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Entre em contato:
+Email: [nilsonluizk@gmail.com](mailto:nilsonluizk@gmail.com)
+
+## 📊 Estatísticas do GitHub:
+</div>
+
+<div align="center">
+  <img height="280" src="https://github-readme-stats.vercel.app/api?username=nilson-krull&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=45deg,D71925,F47920,F79440&locale=pt-br" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilson-krull&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=45deg,D71925,F47920,F79440&locale=pt-br" />
+</div>
